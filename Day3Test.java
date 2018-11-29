@@ -3,6 +3,7 @@ public class Day3Test{
 
 	System.out.println("My name is Shreyas Kanwar.");
 	System.out.println("My name is Anshika Nangia.");
+	System.out.println("Partner A");
 
 	}
 }
